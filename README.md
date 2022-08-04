@@ -15,3 +15,7 @@ If else statements are used to collect and validate user input and a for loop is
 Once a password is generated the user may click on the "generate button" to run the functions again and generate a new password based on new prompt ansers 
 
 The user interface is basic however this allows ease of use and does not distract from the overall goal of the application 
+
+URL of deployed application 
+https://nickmason01.github.io/Random-Password-Generator/
+
