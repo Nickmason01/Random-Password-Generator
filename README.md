@@ -19,3 +19,4 @@ The user interface is basic however this allows ease of use and does not distrac
 URL of deployed application 
 https://nickmason01.github.io/Random-Password-Generator/
 
+![image](https://user-images.githubusercontent.com/108901623/182956155-9f6359fd-5880-44e4-b9c7-2cdae1b0f527.png)
