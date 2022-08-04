@@ -1,5 +1,7 @@
  Random-Password-Generator
+ 
  Description 
+ 
  I modified code for a random password generator application to give the user a random password after they answer several prompts 
  
  I wanted to prompt the user for several criteria for their password so that the password generated could be customizable 
